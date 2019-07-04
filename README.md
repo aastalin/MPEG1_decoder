@@ -21,5 +21,4 @@ $ make
 ```C
 $ ./main [video]
 ```
-Use OpenCV to display result
-~                                        
+Use OpenCV to display result                                        

@@ -1,5 +1,6 @@
 JPEG Decoder
 ======================================
+Only I and P frame is implemented.
 
 ### Environment
 
